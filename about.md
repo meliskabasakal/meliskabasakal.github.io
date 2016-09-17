@@ -7,7 +7,7 @@ permalink: /about/
 
 ### Ben Kimim?
 
-19 yaşındayım ve Bilkent Üniversitesi'nde CTIS okuyorum. Aktif olarak yürüttüğüm iki farklı projem bulunuyor, bunlar: inceleme.co ve girisimlist.com.
+19 yaşındayım ve Bilkent Üniversitesi'nde CTIS okuyorum. Aktif olarak yürüttüğüm iki farklı projem bulunuyor, bunlar: [inceleme.co](http://inceleme.co) ve [GirişimList](http://girisimlist.com).
 
 Bu GitHub Pages sayfası Jekyll ile oluşturulmuştur.
 
