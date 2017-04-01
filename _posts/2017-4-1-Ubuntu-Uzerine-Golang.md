@@ -44,4 +44,4 @@ Yaptığınız değişikliklerden sonra alttaki konutu çalıştırarak profille
 $ source ~/.profile
 ```
 
-Bu şekilde sunucumuza Go 1.9 sürümünü başarıyla kurmuş ve ayarlarını yapmış bulunuyoruz.
+Bu şekilde sunucumuza Go 1.8 sürümünü başarıyla kurmuş ve ayarlarını yapmış bulunuyoruz.
