@@ -12,8 +12,9 @@ $ sudo apt-get -y upgrade
 
 Bunu yaptıktan sonra curl komutu ile Golang'ın 1.8 sürümünü sunucumuza alabiliriz. En son sürümleri de buradan kontrol edebilirsiniz: https://golang.org/dl/
 
+```sh
 $ sudo curl -O sudo curl -O https://storage.googleapis.com/golang/go1.8.linux-amd64.tar.gz
-
+```
 Gördüğünüz gibi indirdiğimiz dosya .tar formatında sıkıştırılmış bir formatta. Aşağıdaki komutlar Tar aracının çalışıp paket adında bir dosya yaratmasına ardından da bu dosyayı /usr/local konumuna taşıyacak.
 
 ```sh
